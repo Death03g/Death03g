@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything new to me.
 - 🌱 I’m currently learning C++, maybe python soon the future.
 - 💞️ I’m looking to collaborate on any C++ projects.
-- 📫 How to reach me -mabwazara03@gmail.com
+- 📫 How to reach me -on mabwazara03@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: have a really good sense of humor.
 
